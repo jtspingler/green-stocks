@@ -29,10 +29,6 @@ Here are the results of our macros for 2017 and 2018 before we refactored the co
 
 ![This is an image](https://github.com/jtspingler/green-stocks/blob/9f60928e82792d3acb053853bc878d5beb8d4fbb/All%20Stocks%202018%20timer.PNG)
 
-### Analysis of Outcomes Based on Goals
-
-![This is an image](https://github.com/jtspingler/kickstarter-analysis/blob/fcc51790df39cce4094960b9b543f38c07775fd2/Outcomes%20based%20on%20Goals.PNG)
-
 ### Challenges and Difficulties Encountered
 
 I definitely struggled creating the for loops through our multiple variables but the module helped me work through my issues. One particular area that I struggled through was changing the names of the sheets that we needed to activate in order to set our years to "yearvalue". To debug this I used the debugger in VBA and that highlighted the areas where I was making mistakes.
